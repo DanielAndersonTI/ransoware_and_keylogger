@@ -2,7 +2,7 @@
 
 **Participante:** Daniel  
 **Data de conclusão:** Outubro de 2025  
-**Local:** Fortaleza, CE  
+**Local:** João Pessoa, PB  
 **Tecnologias utilizadas:** Python, Pynput, SMTP, pip, stdlib, criptografia simétrica
 
 ---
